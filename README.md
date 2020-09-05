@@ -9,9 +9,13 @@ Write action (buy, fill, take, remaining, exit):
 The coffee machine has:
 
 400 of water
+
 540 of milk
+
 120 of coffee beans
+
 9 of disposable cups
+
 $550 of money
 
 Write action (buy, fill, take, remaining, exit): 
