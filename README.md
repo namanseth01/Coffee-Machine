@@ -2,6 +2,7 @@
 This is a project based on the automatic response of coffee machine.
 
 Output template:
+
 Write action (buy, fill, take, remaining, exit): 
 > remaining
 
