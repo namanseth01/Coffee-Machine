@@ -1,7 +1,8 @@
 # Coffee-Machine
 This is a project based on the automatic response of coffee machine.
 
-Output template:
+
+# Output template:
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
@@ -52,12 +53,16 @@ Sorry, not enough water!
 Write action (buy, fill, take, remaining, exit): 
 > fill
 
+
 Write how many ml of water do you want to add: 
 > 1000
+
 Write how many ml of milk do you want to add: 
 > 0
+
 Write how many grams of coffee beans do you want to add: 
 > 0
+
 Write how many disposable cups of coffee do you want to add: 
 > 0
 
